@@ -241,4 +241,4 @@ This repository serves as the official landing page for Unreal Tournament 3. The
 **Get the most recent version of Unreal Tournament 3 today!**
 
 ---
-**Last updated:** 2026-10-19 23:59:57 UTC
+**Last updated:** 2026-10-20 03:44:41 UTC
